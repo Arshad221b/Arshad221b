@@ -1,10 +1,15 @@
 ## Hi there 👋
 ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad221b&hide=contribs,prs)
-## I am Arshad ![](https://komarev.com/ghpvc/?username=mahithabsl&color=blue&style=flat-square&label=Profile+visitors)</div>
+## I am Arshad 
+
+![](https://img.shields.io/badge/Python-3.8-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tensorflow-Python-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Opencv-Python-informational?style=flat&logo=opencv&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=red) ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=yellow) 
+
+![](https://komarev.com/ghpvc/?username=mahithabsl&color=blue&style=flat-square&label=Profile+visitors)</div> 
+
 Data Scientist, Blogger and ML Developer
 
-## Website
-Jorney of Curiosity [www.arshad-kazi.com](https://www.arshad-kazi.com)
+## Website: [www.arshad-kazi.com](https://www.arshad-kazi.com)
+
 
 ## ✍️ My latest Blogs
 1) [Sarcasm Detection using Deep learning](https://www.arshad-kazi.com/sarcasm-detection/)
