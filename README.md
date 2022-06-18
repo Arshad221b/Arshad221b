@@ -1,5 +1,5 @@
 <div align='center'>
-<h1>Hi there, I'm Arshad <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> </h1>
+<h1>Hi there, I'm Arshad</h1>
   
 ![Arshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arshad221b&hide=contribs,prs)
   
@@ -14,7 +14,6 @@
 
 ## Data Scientist, Blogger and ML Developer
 
-<img src="https://media.giphy.com/media/VHq5qJ6830RNFEg0Bw/giphy.gif" width="10px">
 
 
 ## Website: [www.arshad-kazi.com](https://www.arshad-kazi.com)
@@ -25,7 +24,7 @@
 
 <h2 align='center'>✍️ My latest Blogs</h2>
 <div align='center'>
-<img src="https://media.giphy.com/media/pVYCDUGiSmaC6WXlnP/giphy.gif" width="10px">
+
  </div>
 
 1) [Sarcasm Detection using Deep learning](https://www.arshad-kazi.com/sarcasm-detection/)
