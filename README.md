@@ -21,6 +21,19 @@
 </div>
 
 
+  
+## 💻 Projects 
+  
+ </div>
+ 
+1) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
+2) [Sign Language Recognition](https://github.com/Arshad221b/Sign-Language-Recognition)
+3) [i-Vaidya](https://github.com/Arshad221b/srm_hack)
+4) [Named Entity Recognition](https://github.com/Arshad221b/Named-Entity-Recognition/blob/main/NER_updated.ipynb)
+5) [Heart Attack Detection](https://github.com/Arshad221b/Machine-Learning-with-flask)
+6) [Unbeatable Tic Tac Toe](https://github.com/Arshad221b/unbeatable_tic_tac_toe)
+
+
 
 <h2 align='center'>✍️ My latest Blogs</h2>
 <div align='center'>
@@ -43,15 +56,4 @@
 14) [BFS and DFS Algorithms Simplified!](https://www.arshad-kazi.com/bfs-and-dfs-algorithms-in-simple-words/)
 
 <div align='center'>
-  
-## 💻 Projects 
-  
- </div>
- 
-1) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
-2) [Sign Language Recognition](https://github.com/Arshad221b/Sign-Language-Recognition)
-3) [i-Vaidya](https://github.com/Arshad221b/srm_hack)
-4) [Named Entity Recognition](https://github.com/Arshad221b/Named-Entity-Recognition/blob/main/NER_updated.ipynb)
-5) [Heart Attack Detection](https://github.com/Arshad221b/Machine-Learning-with-flask)
-6) [Unbeatable Tic Tac Toe](https://github.com/Arshad221b/unbeatable_tic_tac_toe)
 
