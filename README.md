@@ -27,12 +27,13 @@
  </div>
  
 1) [3D Image Segmentation using 3D UNet](https://github.com/Arshad221b/MedSeg)
-2) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
-3) [Sign Language Recognition](https://github.com/Arshad221b/Sign-Language-Recognition)
-4) [i-Vaidya](https://github.com/Arshad221b/srm_hack)
-5) [Named Entity Recognition](https://github.com/Arshad221b/Named-Entity-Recognition/blob/main/NER_updated.ipynb)
-6) [Heart Attack Detection](https://github.com/Arshad221b/Machine-Learning-with-flask)
-7) [Unbeatable Tic Tac Toe](https://github.com/Arshad221b/unbeatable_tic_tac_toe)
+2) [YOLO-NAS for Traffic Sign Detection](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)
+3) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
+4) [Sign Language Recognition](https://github.com/Arshad221b/Sign-Language-Recognition)
+5) [i-Vaidya](https://github.com/Arshad221b/srm_hack)
+6) [Named Entity Recognition](https://github.com/Arshad221b/Named-Entity-Recognition/blob/main/NER_updated.ipynb)
+7) [Heart Attack Detection](https://github.com/Arshad221b/Machine-Learning-with-flask)
+8) [Unbeatable Tic Tac Toe](https://github.com/Arshad221b/unbeatable_tic_tac_toe)
 
 
 
