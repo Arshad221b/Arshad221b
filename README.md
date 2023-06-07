@@ -1,12 +1,10 @@
 <div align='center'>
 <h1>Arshad Kazi</h1>
-
-
-## Data Scientist, Blogger and ML Developer
+ <h3>Computer Vision, NLP, Explainable AI</h3>
 
 
 
-## Website: [www.arshad-kazi.com](https://www.arshad-kazi.com)
+### Blog: [www.arshad-kazi.com](https://www.arshad-kazi.com)
   ### Open for research collaboration.
   
 </div>
