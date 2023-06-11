@@ -5,7 +5,7 @@
 
 
 ### Blog: [www.arshad-kazi.com](https://www.arshad-kazi.com)
-  ### Open for research collaboration.
+  ### Open for collaboration.
   
 </div>
 
