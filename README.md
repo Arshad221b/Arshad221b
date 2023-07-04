@@ -15,7 +15,7 @@
   
  </div>
  
-1) [3D Image Segmentation using 3D UNet (Private)](https://github.com/Arshad221b/MedSeg)
+1) [3D Image Segmentation using 3D UNet](https://github.com/Arshad221b/MedSeg)
 2) [YOLO-NAS for Traffic Sign Detection](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)
 3) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
 4) [Sign Language Recognition](https://github.com/Arshad221b/Sign-Language-Recognition)
