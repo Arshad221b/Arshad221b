@@ -15,7 +15,7 @@
   
  </div>
  
-1) [Code Switching for Hinglish to English Using LLMs](https://arxiv.org/abs/2312.13179) (Research Publication)
+1) [Contextual Code Switching for Machine Translation using Language Models](https://arxiv.org/abs/2312.13179) (Research Publication)
 2) [3D Image Segmentation using 3D UNet](https://github.com/Arshad221b/MedSeg)
 3) [YOLO-NAS for Traffic Sign Detection](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)
 4) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
