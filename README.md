@@ -13,19 +13,27 @@
 
 
   
-## 💻 Projects 
+#### Stuff I am kinda good at:  
   
  </div>
  
-1) [Question Answering on any PDF using RAG + LangChain + Pinecone](https://github.com/Arshad221b/RAG-on-PDF)
-2) [Contextual Code Switching for Machine Translation using Language Models](https://arxiv.org/abs/2312.13179) (Research Publication)
-3) [3D Image Segmentation using 3D UNet](https://github.com/Arshad221b/MedSeg)
-4) [YOLO-NAS for Traffic Sign Detection](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)
-5) [Multi-Task Learning for Age and Gender](https://github.com/Arshad221b/multi-task-learning-for-age-and-gender-)
-6) [Sign Language Recognition](https://github.com/Arshad221b/Sign-Language-Recognition)
-7) [i-Vaidya](https://github.com/Arshad221b/srm_hack)
-8) [Named Entity Recognition](https://github.com/Arshad221b/Named-Entity-Recognition/blob/main/NER_updated.ipynb)
-9) [Heart Attack Detection](https://github.com/Arshad221b/Machine-Learning-with-flask)
+1) Understanding of the Neural Nets this includes Transformer Architecture, CNNs, LSTMs
+2) Understanding of Maths: Statistsics, Probability, Linear Algebra, little bit of calculus (little bit of everything actually)
+3) Implementaion of paper which I can train on my laptop (smaller versions of large models/ finetuning)
+4) Python all the way down
+5) Implementation of Data Pipelines (both image and text)
+6) Writing down stuff (maybe)
+
+
+
+#### Stuff I am want to be good at:
+ </div>
+
+ 1) Implementation of complex models from scratch (not just toy version)
+ 2) Train a large model on multi-GPU clusture, which involves not just training but the entire jazz
+ 3) Valuable contribution to an opensource project
+ 4) Writing a clean and optimized code
+ 5) Being less pretentious, and writing more code than words
 
 <div align='center'>
 
