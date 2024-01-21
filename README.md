@@ -22,7 +22,7 @@
 3) Implementaion of paper which I can train on my laptop :smaller versions of large models/ finetuning
 4) Python all the way down
 5) Implementation of Data Pipelines for both image and text
-6) Data engineering stuff: Docker, AWS and API building etc.
+6) Developer stuff: Docker, AWS and API building etc.
 7) Writing down stuff (maybe)
 
 
