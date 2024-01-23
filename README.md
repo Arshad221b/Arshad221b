@@ -18,7 +18,7 @@
  </div>
  
 1) Understanding of the Neural Nets and Classical ML this includes Transformer Architecture, CNNs, LSTMs, UNets and SVM, XGBoost, (param selection, EDA) etc.
-2) Understanding of Maths: Statistics, Probability, Linear Algebra, little bit of calculus (little bit of everything actually)
+2) Understanding of Maths: Statistics, Probability, Linear Algebra, little bit of calculus (little bit of everything)
 3) Implementaion of paper which I can train on my laptop :smaller versions of large models/ finetuning
 4) Python all the way down
 5) Implementation of Data Pipelines for both image and text
