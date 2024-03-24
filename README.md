@@ -27,7 +27,7 @@
 
 
 
-#### Stuff I am want to be good at:
+#### Stuff I want to be good at:
  </div>
 
  1) Implementation of complex models from scratch and not just a toy version
