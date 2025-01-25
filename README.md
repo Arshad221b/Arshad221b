@@ -2,8 +2,6 @@
 <h1>Arshad Kazi</h1>
  <h3>Computer Vision, NLP, LLM</h3>
 
- 
-#### [www.arshad-kazi.com](https://www.arshad-kazi.com)
   #### Open for collaboration.
 
 
