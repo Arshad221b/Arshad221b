@@ -11,6 +11,37 @@ Most of my recent work explores self-supervision, pose estimation, image segment
 
 ---
 
+## About Me
+
+- Title: Data Scientist  
+- Philosophy: I’m all for ML models that can help us unravel the mysteries of the universe (not just generate adorable cat images)
+- Interests: Self-supervised learning, multimodal systems, human-centric AI or anything that helps us understand how machines see the world (or what they actually percieve)
+
+---
+
+### Stuff I'm Kind of Good At
+
+- Rebuilding ML models from scratch (ViTs, DINO, UNet, etc.)  
+- Designing data pipelines that scale and debug well  
+- Self-supervised learning and training loops  
+- Fine-tuning large models with small data  
+- Keeping code readable, minimal, and modular
+- Research work (finding papers for the solutions)
+
+---
+
+### Stuff I'm Trying to Get Better At
+
+- Multi-modal learning (vision + text + audio)  
+- Efficient training on low-resource hardware  
+- Generative modeling (audio, diffusion, NeRFs)  
+- Inference optimization (TensorRT, quantization)  
+- Better unit testing and CI/CD practices for ML pipelines
+- Currently obsessed with geometric computer vision stuff and want to get better at it
+- Being less of a bozo and write better code than words ;)
+
+---
+
 ## Recent Computer Vision Projects
 
 ### DINO from Scratch  
@@ -43,14 +74,6 @@ Retrieval-Augmented Generation (RAG) pipeline that reads PDFs and answers natura
 ##### Named Entity Recognition (NER)  
 NER system built using Huggingface’s RoBERTa model. Includes token classification, training loop, data preprocessing, and clean inference pipeline.  
 [Repo](https://github.com/Arshad221b/Named-Entity-Recognition)
-
----
-
-## About Me
-
-- Title: Data Scientist  
-- Philosophy: I’m all for ML models that can help us unravel the mysteries of the universe (not just generate adorable cat images)
-- Interests: Self-supervised learning, multimodal systems, human-centric AI or anything that helps us understand how machines see the world (or what they actually percieve)
 
 ---
 
