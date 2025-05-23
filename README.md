@@ -41,6 +41,10 @@ Most of my recent work explores self-supervision, pose estimation, image segment
 - Being less of a bozo and write better code than words ;)
 
 ---
+### Github Stats
+
+| <a href="https://github.com/Arshad221b"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Arshad221b&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arshad221b's github stats" /></a> | <a href="https://github.com/Arshad221b"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arshad221b&layout=compact&theme=buefy&hide_border=true" /></a> |
+| - | - |
 
 ## Recent Computer Vision Projects
 
