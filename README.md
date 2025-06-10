@@ -6,7 +6,7 @@ I’m particularly interested in computer vision and multi-model systems that un
 
 Most of my recent work explores self-supervision, pose estimation, image segmentation, and retrieval-augmented generation. I enjoy turning research into fully working systems—modular, testable, and often local-first (or on some small cloud GPU).
 
-
+You can also read some of my techincal blogs [here](https://www.arshad-kazi.com/category/ml/). And a personal & non-technical intro [here](https://www.arshad-kazi.com). 
 
 
 ---
