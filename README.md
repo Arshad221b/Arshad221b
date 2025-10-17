@@ -1,6 +1,6 @@
 # Hi, I’m Arshad Kazi
 
-I’m a Data Scientist with some industry experience. These are the projects/experiments I do in my free time (purely out of interest). For more professional (/industrial) info please refere to my [linkedin](https://www.linkedin.com/in/arshad221b/) profile. 
+I’m a Computer Vision Engineer with some industry experience. These are the projects/experiments I do in my free time (purely out of interest). For more professional (/industrial) info please refere to my [linkedin](https://www.linkedin.com/in/arshad221b/) profile. 
 
 I’m particularly interested in computer vision and multi-model systems that understand the world by looking at it. I love understanding these systems from the inside out. Instead of just using models, I rebuild them to learn how they actually work. 
 
@@ -49,6 +49,11 @@ You can also read some of my techincal blogs [here](https://www.arshad-kazi.com/
 A full reimplementation of DINO (Self-Distillation with No Labels) using PyTorch and Vision Transformers. The project focuses on contrast-free self-supervised learning using momentum encoders, centering, sharpening, and multi-view alignment.  
 ![DINO Architecture](https://github.com/Arshad221b/DINO_from_scratch/blob/main/screenshots/attention_maps.png)
 [Repo](https://github.com/Arshad221b/DINO_from_scratch)
+
+### NeRF from Scratch  
+Implemented a PyTorch-based Neural Radiance Fields (NeRF) model entirely from scratch. Including positional encoding, ray sampling, volume rendering pipeline, and novel view synthesis for 3D scene reconstruction.
+![DINO Architecture](https://github.com/Arshad221b/NeRF-from-scratch/blob/main/screenshot/nerf.png)
+[Repo](https://github.com/Arshad221b/NeRF-from-scratch)
 
 ### 2D to 3D Human Pose Uplift  
 A transformer-based system that lifts 2D pose keypoints to 3D, inspired by MotionBERT. Includes full training pipeline, temporal modeling, and 3D visualization of predictions.  
