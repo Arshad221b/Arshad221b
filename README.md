@@ -45,41 +45,33 @@ You can also read some of my techincal blogs [here](https://www.arshad-kazi.com/
 
 ## Recent Computer Vision Projects
 
-### 1. DINO from Scratch  
+### 1. [DINO from Scratch](https://github.com/Arshad221b/DINO_from_scratch)  
 A full reimplementation of DINO (Self-Distillation with No Labels) using PyTorch and Vision Transformers. The project focuses on contrast-free self-supervised learning using momentum encoders, centering, sharpening, and multi-view alignment.  
-[Repo](https://github.com/Arshad221b/DINO_from_scratch)
 
-### 2. NeRF from Scratch  
+### 2. [NeRF from Scratch](https://github.com/Arshad221b/NeRF-from-scratch)  
 Implemented a PyTorch-based Neural Radiance Fields (NeRF) model entirely from scratch. Including positional encoding, ray sampling, volume rendering pipeline, and novel view synthesis for 3D scene reconstruction.
-[Repo](https://github.com/Arshad221b/NeRF-from-scratch)
 
-### 3. 2D to 3D Human Pose Uplift  
+### 3. [2D to 3D Human Pose Uplift](https://github.com/Arshad221b/2d_to_3d_human_pose_uplift)  
 A transformer-based system that lifts 2D pose keypoints to 3D, inspired by MotionBERT. Includes full training pipeline, temporal modeling, and 3D visualization of predictions.  
-[Repo](https://github.com/Arshad221b/2d_to_3d_human_pose_uplift)
 
-### 4. YOLO-NAS for Custom Dataset  
+### 4. [YOLO-NAS for Custom Dataset](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)  
 Fine-tuned YOLO-NAS (via SuperGradients) on an Indian street sign dataset. Includes support for custom annotations, training scripts, and inference setup.  
-[Repo](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)
 
-### 5. CLIP from Scratch  
+### 5. [CLIP from Scratch](https://github.com/Arshad221b/CLIP_from_scratch)  
 A from-scratch PyTorch implementation of CLIP (Contrastive Language–Image Pretraining). Uses MobileNetV3-Small as the image encoder and DistilBERT as the text encoder, trained on Flickr30k with a symmetric contrastive loss. Optimized for local training on Apple Silicon (MPS).  
-[Repo](https://github.com/Arshad221b/CLIP_from_scratch)
 
-### 6. 3D U-Net for Image Segmentation  
-Custom-built 3D U-Net for volumetric CT/MRI segmentation. Includes patch-wise training, organ-level labeling, and volumetric visualization.  
-[Repo](https://github.com/Arshad221b/3D-UNet-Image-Segmentation)
+### 6. [3D U-Net for Image Segmentation](https://github.com/Arshad221b/3D-UNet-Image-Segmentation)  
+Custom-built 3D U-Net for volumetric CT/MRI segmentation. Includes patch-wise training, organ-level labeling, and volumetric visualization.
 
 ---
 
 #### Natural Language Processing Projects
 
-##### 1. RAG on PDF  
+##### 1. [RAG on PDF](https://github.com/Arshad221b/RAG-on-PDF)  
 Retrieval-Augmented Generation (RAG) pipeline that reads PDFs and answers natural language questions. Built using LangChain, FAISS, and LLMs with a focus on local-first privacy and fast contextual retrieval.  
-[Repo](https://github.com/Arshad221b/RAG-on-PDF)
 
-##### 2. Named Entity Recognition (NER)  
-NER system built using Huggingface’s RoBERTa model. Includes token classification, training loop, data preprocessing, and clean inference pipeline.  
-[Repo](https://github.com/Arshad221b/Named-Entity-Recognition)
+##### 2. [Named Entity Recognition (NER)](https://github.com/Arshad221b/Named-Entity-Recognition)  
+NER system built using Huggingface’s RoBERTa model. Includes token classification, training loop, data preprocessing, and clean inference pipeline.
 
 ---
 
