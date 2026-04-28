@@ -65,6 +65,10 @@ Fine-tuned YOLO-NAS (via SuperGradients) on an Indian street sign dataset. Inclu
 ![yolo nas](https://github.com/Arshad221b/YOLO-NAS-for-custom-data/blob/main/demo/ezgif.com-video-to-gif.gif)
 [Repo](https://github.com/Arshad221b/YOLO-NAS-for-custom-data)
 
+### CLIP from Scratch  
+A from-scratch PyTorch implementation of CLIP (Contrastive Language–Image Pretraining). Uses MobileNetV3-Small as the image encoder and DistilBERT as the text encoder, trained on Flickr30k with a symmetric contrastive loss. Optimized for local training on Apple Silicon (MPS).  
+[Repo](https://github.com/Arshad221b/CLIP_from_scratch)
+
 ### 3D U-Net for Image Segmentation  
 Custom-built 3D U-Net for volumetric CT/MRI segmentation. Includes patch-wise training, organ-level labeling, and volumetric visualization.  
 [Repo](https://github.com/Arshad221b/3D-UNet-Image-Segmentation)
